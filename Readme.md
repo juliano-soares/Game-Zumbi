@@ -4,3 +4,5 @@
 > https://juliano-soares.itch.io/apocalipse-zumbi
 
 > Senha: 12345
+
+<img src="./img/Capturar.PNG" alt="Imagem do Game"/>
